@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TabNavigation",
-    "slug": "tab-navigation",
+    "name": "bedTimeStories",
+    "slug": "bedTimeStories",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
